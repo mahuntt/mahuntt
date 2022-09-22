@@ -8,12 +8,12 @@ Me chamo Lucas César, sou estudante de Engenharia de Alimentos pela Universidad
 
 ## Linguagens e tecnologias:
 
-[<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />()
+[<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />]()
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
 
-##Estatísticas:
+## Estatísticas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahuntt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahuntt)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahuntt&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahuntt)
