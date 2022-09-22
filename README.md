@@ -16,4 +16,4 @@ Me chamo Lucas César, sou estudante de Engenharia de Alimentos pela Universidad
 ## Estatísticas:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahuntt&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahuntt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahuntt&show_icons=true&theme=cobalt)
