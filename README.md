@@ -2,8 +2,7 @@
 
 [![Linkedin: lucas-cesar47](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cesar47/)](https://www.linkedin.com/in/lucas-cesar47/)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascsr47@gmail.com)
-[![Instagram: mahuntt](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.mahuntt)
-<!--
+[![Instagram: mahuntt](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahuntt)
 
 Me chamo Lucas César, sou estudante de Engenharia de Alimentos pela Universidade de São Paulo e apaixonado por tecnologia desde criança. Constante aprendiz, fascinado em adquirir conhecimento e focado no desenvolvimento profissional com o auxílio do trabalho em equipe. Atualmente estou cursando o penúltimo semestre da faculdade e aprendendo com o Bootcamp de Ciência de Dados, que engloba os conteúdos de Python, SQL e Machine Learning. Estou buscando uma oportunidade estágio na área de Análise de Dados e no futuro desejo realizar um MBA na área de Data Analytics/Big Data.
 
