@@ -6,7 +6,7 @@
 <a href="https://discord.gg/#1569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1569" height="30" width="40" /></a>
 </p>
 
-Me chamo Lucas César, tenho 22 anos, sou estudante de Engenharia de Alimentos pela Universidade de São Paulo e apaixonado por tecnologia desde criança. Constante aprendiz, fascinado em adquirir conhecimento e focado no desenvolvimento profissional com o auxílio do trabalho em equipe. Atualmente estou cursando o último semestre da faculdade e trabalhando como DBA SQL Server Trainee na Dataside. Possuo uma certificação de AZ-900 pela Microsoft.
+Me chamo Lucas César, tenho 22 anos, sou estudante de Engenharia de Alimentos pela Universidade de São Paulo e apaixonado por tecnologia desde criança. Constante aprendiz, fascinado em adquirir conhecimento e focado no desenvolvimento profissional com o auxílio do trabalho em equipe. Atualmente estou cursando o último semestre da faculdade e trabalhando como DBA SQL Server Trainee na Dataside. Possuo certificação de AZ-900 e DP-900 pela Microsoft.
 
 ## Linguagens e tecnologias:
 
